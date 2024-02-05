@@ -1,6 +1,3 @@
----
-output: md_document
----
 # Intro-to-text-analysis
 
 This is an introduction to both qualitative and quantitative text anaylsis in R.
